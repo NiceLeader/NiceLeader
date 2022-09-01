@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NiceLeader
-- 👀 I’m interested in Programming, Finances and 
+- 👀 I’m interested in Programming, Finances
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : 
