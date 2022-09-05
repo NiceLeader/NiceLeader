@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @NiceLeader<br>👀 I’m interested in Programming, Finances<br>🌱 I’m currently learning Java<br>💞️ I’m looking to collaborate on ...<br>📫 How to reach me :<br>Send me mail: maciek2002.10@wp.pl<br>LinkedIn profile: https://www.linkedin.com/in/maciej-lewandowski-76b270207/
+👋 Hi, I’m @NiceLeader<br>👀 I’m interested in Programming, Finances<br>🌱 I’m currently learning Java<br>💞️ I’m looking to collaborate on ...<br>📫 How to reach me :<br>
 
 
 ## 🌐 Socials:
