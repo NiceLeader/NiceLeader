@@ -1,5 +1,6 @@
 # 💫 About Me:
-👋 Hi, I’m @NiceLeader<br>👀 I’m interested in Programming, Finances<br>🌱 I’m currently learning Spring<br>💞️ I’m looking to collaborate on ...<br>
+👋 Hi, I’m @NiceLeader<br>👀 I’m interested in Programming, Finances<br>🌱 I’m currently learning Spring<br>💞️ I’m looking to collaborate on ...<br>⚡ Fun fact **I have total 460kg powerlifting in 70kg**<br>
+
 
 
 ## 🌐 Socials:
