@@ -6,7 +6,7 @@ Java developer
 
 * 🌍  I'm based in Poland
 * ✉️  You can contact me at [maciek2002.10@wp.pl](mailto:maciek2002.10@wp.pl)
-* 🧠  I'm learning Java, Spring Boot, ,microservices
+* 🧠  I'm learning Java, Spring Boot, microservices
 * ⚡  I'm Batman
 
 ### Skills
