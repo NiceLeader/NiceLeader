@@ -5,9 +5,8 @@ Software engineer
 --------------
 
 * 🌍  I'm based in Poland
-* 🧠  I'm learning Java, Spring Boot, microservices
-* ⚡  I'm Batman
-* ✉️  You can contact me at [maciek2002.10@wp.pl](mailto:maciek2002.10@wp.pl)
+* 💼 I'm building ventures. I'm working on crypto casinos, Real World Assets (RWAs), and a fitness app.* ⚡  I'm Batman
+* ✉️  You can contact me at [hello@pogarta.com](mailto:hello@pogarta.com)
 
 ### Skills
 
