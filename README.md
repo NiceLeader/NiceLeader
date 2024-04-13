@@ -5,7 +5,8 @@ Software engineer
 --------------
 
 * 🌍  I'm based in Poland
-* 💼 I'm building ventures. I'm working on crypto casinos, Real World Assets (RWAs), and a fitness app.* ⚡  I'm Batman
+* 💼 I'm building ventures. I'm working on crypto casinos, Real World Assets (RWAs), and a fitness app.
+* ⚡  I'm Batman
 * ✉️  You can contact me at [hello@pogarta.com](mailto:hello@pogarta.com)
 
 ### Skills
