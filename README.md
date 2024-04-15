@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Maciej and I'm a Software Engineer , from Poland</p>
+<p align="left">My name is Maciej and I'm a Software Engineer, from Poland</p>
 
 ###
 
