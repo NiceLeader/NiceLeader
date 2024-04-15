@@ -48,9 +48,13 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" height="40" alt="solidity logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/rust/000000" height="40" alt="solana logo"  />
+  <img src="https://cdn.simpleicons.org/rust/000000" height="40" alt="rust logo"  />
   <img width="12" />
-  <img src="https://solana.com/_next/static/media/solanaLogoMark.17260911.svg" height="40" alt="rust logo"  />
+  <img src="https://solana.com/_next/static/media/solanaLogoMark.17260911.svg" height="40" alt="solana logo"  />
+  <img width="12" />
+  <img src="https://ton.org/icons/custom/ton_logo.svg" height="40" alt="ton logo"  />
+  <img width="12" />
+  <img src="https://ethereum.org/_next/image/?url=%2F_next%2Fstatic%2Fmedia%2Feth-diamond-purple.7929ed26.png&w=828&q=75" height="40" alt="etherum logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/mocha/8D6748" height="40" alt="mocha logo"  />
   <img width="12" />
