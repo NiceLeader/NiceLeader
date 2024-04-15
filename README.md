@@ -10,7 +10,12 @@
 
 ###
 
-<p align="left">✨ Creating bugs as long as I'm breathing<br>📚 I'm currently learning advanced blockchain algorithms, Smart contract security<br>🎯 Goals: To establish myself as a thought leader in blockchain technology and drive cutting-edge innovations<br>🎲 Fun fact: When I'm not coding, , I'm either lifting weights at the gym or enjoying a good meal!</p>
+<p align="left">
+  🚀 <strong>Currently Pioneering:</strong> Innovating in the blockchain space by developing bulletproof contracts and exploring disruptive startup ideas.<br>
+  🌐 <strong>Engaged in:</strong> Shaping the future of digital transactions.<br>
+  🎯 <strong>Goals:</strong> To establish myself as a thought leader in blockchain technology and drive cutting-edge innovations.<br>
+  🎲 <strong>Fun Fact:</strong> When I'm not coding, I'm either lifting weights at the gym or enjoying a good meal!
+</p>
 
 ###
 
