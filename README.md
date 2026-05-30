@@ -18,10 +18,10 @@
 ###
 
 <p align="left">
-  🟢 <strong>Solana</strong> — Token-2022 launch infrastructure (Meteora CP-AMM, Jupiter, Helius, Squads Multisig)<br>
-  🟢 <strong>Decentra Planet</strong> — multi-chain payment rails (Wagmi/Viem, stablecoins, x402, on/off-ramp)<br>
-  🟢 <strong>DLT Digital Assets</strong> — Hyperledger Besu + Firefly middleware for G-SIB banking client (via GFT)<br>
-  🟢 <strong>AI tooling</strong> — multi-agent dev workflows, automation pipelines
+  🟢 <strong>Solana token infrastructure</strong> — Token-2022 launches, AMM integrations, multisig operations<br>
+  🟢 <strong>Web3 payment rails</strong> — multi-chain stablecoin flows, wallet integrations, fiat on/off-ramp<br>
+  🟢 <strong>Enterprise DLT</strong> — permissioned blockchain networks with Hyperledger middleware<br>
+  🟢 <strong>AI tooling</strong> — multi-agent dev workflows and automation pipelines
 </p>
 
 ###
