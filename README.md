@@ -21,6 +21,7 @@
   🟢 <strong>Solana token infrastructure</strong> — Token-2022 launches, AMM integrations, multisig operations<br>
   🟢 <strong>Web3 payment rails</strong> — multi-chain stablecoin flows, wallet integrations, fiat on/off-ramp<br>
   🟢 <strong>Enterprise DLT</strong> — permissioned blockchain networks with Hyperledger middleware<br>
+  🟢 <strong>Fintech backend</strong> — large-scale financial platform engineering for APAC enterprise client<br>
   🟢 <strong>AI tooling</strong> — multi-agent dev workflows and automation pipelines
 </p>
 
