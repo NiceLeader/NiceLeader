@@ -84,19 +84,6 @@
 
 ###
 
-<h2 align="left">📌 Featured Work</h2>
-
-###
-
-<p align="left">
-  🔹 <a href="https://github.com/NiceLeader/solana-anchor-escrow"><strong>solana-anchor-escrow</strong></a> — Solana escrow program in Rust / Anchor<br>
-  🔹 <a href="https://github.com/NiceLeader/ERC721AK"><strong>ERC721AK</strong></a> — gas-optimized NFT contract with multisend, KYC and rewards (ERC721A-based)<br>
-  🔹 <a href="https://github.com/NiceLeader/Blockchain-Buddy-for-Discord"><strong>Blockchain-Buddy-for-Discord</strong></a> — crypto address management plugin for Discord<br>
-  🔹 <a href="https://github.com/NiceLeader/Multi-Tenant-Backup-Verification-System"><strong>Multi-Tenant-Backup-Verification-System</strong></a> — multi-tenant infra tooling
-</p>
-
-###
-
 <h2 align="left">📊 GitHub Stats</h2>
 
 ###
