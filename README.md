@@ -2,13 +2,13 @@
 
 ###
 
-<h3 align="left">Senior Blockchain Engineer · Solana / EVM / DLT</h3>
+<h3 align="left">Senior Blockchain Engineer — Solana · EVM · Bitcoin · Hyperledger DLT</h3>
 
 ###
 
 <p align="left">
-  Building production blockchain systems — from G-SIB banking infrastructure on Hyperledger to Solana token economies and Web3 payment rails.<br>
-  7+ years across blockchain, fintech and enterprise backends. Based in Poland 🇵🇱
+  7+ years building production systems across blockchain, fintech and enterprise backends.<br>
+  Backend-heavy stack: TypeScript / NestJS, Java / Spring, Rust on Solana. Based in Poland 🇵🇱
 </p>
 
 ###
