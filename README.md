@@ -89,12 +89,17 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NiceLeader&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" alt="stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NiceLeader&theme=tokyonight&hide_border=true" height="160" alt="streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NiceLeader&theme=tokyonight" alt="profile" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiceLeader&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" height="160" alt="top langs" />
+  <img src="https://streak-stats.demolab.com/?user=NiceLeader&theme=tokyonight&hide_border=true" height="180" alt="streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NiceLeader&theme=tokyonight" height="180" alt="top langs" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NiceLeader&theme=tokyonight" height="180" alt="stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NiceLeader&theme=tokyonight&utcOffset=2" height="180" alt="productive time" />
 </div>
 
 ###
