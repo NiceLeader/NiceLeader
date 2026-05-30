@@ -18,11 +18,11 @@
 ###
 
 <p align="left">
-  🟢 <strong>Solana token infrastructure</strong> — Token-2022 launches, AMM integrations, multisig operations<br>
-  🟢 <strong>Web3 payment rails</strong> — multi-chain stablecoin flows, wallet integrations, fiat on/off-ramp<br>
-  🟢 <strong>Enterprise DLT</strong> — permissioned blockchain networks with Hyperledger middleware<br>
-  🟢 <strong>Fintech backend</strong> — large-scale financial platform engineering for APAC enterprise client<br>
-  🟢 <strong>AI tooling</strong> — multi-agent dev workflows and automation pipelines
+  🟢 <strong>Solana token infrastructure</strong> — Token-2022, Meteora CP-AMM, Jupiter Swap, Helius RPC, Squads Multisig V4, GCP KMS signing<br>
+  🟢 <strong>Web3 payment rails</strong> — Wagmi / Viem / RainbowKit, stablecoin flows (USDC/USDT), x402 protocol, fiat on/off-ramp, ERC-4337 account abstraction<br>
+  🟢 <strong>Enterprise DLT</strong> — Hyperledger Besu / GoQuorum (QBFT), Firefly middleware (TM, KM, CM), Kaleido platform, Terraform-managed multi-env infra<br>
+  🟢 <strong>Fintech backend</strong> — Java / Spring Boot microservices, Solace messaging, Liquibase, Helm, Azure DevOps CI/CD for APAC enterprise client<br>
+  🟢 <strong>AI tooling</strong> — multi-agent dev workflows, MCP servers, automation pipelines (TypeScript / Python)
 </p>
 
 ###
